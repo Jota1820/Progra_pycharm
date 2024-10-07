@@ -1,0 +1,3 @@
+En la semana 16 
+Vamos aprender a escribir y leer archivos en python
+Esta es la linea 3 
